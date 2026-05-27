@@ -61,8 +61,8 @@ namespace FFXIVOpcodes.TC
         NpcSpawn = 0x3d4,                                // updated 7.00
         NpcSpawn2 = 0x311,                              // updated 7.00
         ObjectSpawn = 0xf4,                            // updated 7.00
-        PlaceFieldMarker = 0x35f,                       // updated 7.00
-        PlaceFieldMarkerPreset = 0x263,                 // updated 7.00
+        PlaceFieldMarker = 0x3C6,                       // updated 7.00
+        PlaceFieldMarkerPreset = 0x35F,                 // updated 7.00
         PlayerSetup = 0x3b0,                             // updated 7.00
         PlayerSpawn = 0x2d3,                            // updated 7.00
         PlayerStats = 0x1ba,                            // updated 7.00
